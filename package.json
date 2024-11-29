@@ -1,0 +1,12 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "esercizi 29 nov",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "author": "Chris",
+  "license": "ISC"
+}
